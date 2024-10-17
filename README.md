@@ -27,4 +27,4 @@ O **Quiz Interativo para Programadores** contém várias perguntas sobre desenvo
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seuusuario/quiz-interativo-programadores](https://github.com/eduardoarch/formulario).git
+   git clone https://github.com/eduardoarch/formulario.git
